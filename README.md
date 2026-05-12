@@ -25,7 +25,7 @@ python main.py
 
 ## Status
 
-> ⚠️ This project is a work in progress. The anonymized text is currently not re-embedded into the PDF layout correctly. Planned improvement: use a PDF rendering library to properly overlay anonymized text.
+> This project is a work in progress. The anonymized text is currently not re-embedded into the PDF layout correctly. Planned improvement: use a PDF rendering library to properly overlay anonymized text.
 
 ## Known Issues
 
